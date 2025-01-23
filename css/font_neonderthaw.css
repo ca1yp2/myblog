@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Neonderthaw';
+    src: url('../fonts/Neonderthaw-Regular.eot');
+    src: url('../fonts/Neonderthaw-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Neonderthaw-Regular.woff2') format('woff2'),
+        url('../fonts/Neonderthaw-Regular.woff') format('woff'),
+        url('../fonts/Neonderthaw-Regular.ttf') format('truetype'),
+        url('../fonts/Neonderthaw-Regular.svg#Neonderthaw-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
